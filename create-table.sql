@@ -5,3 +5,4 @@ create table [dbo].[Registration](
     job VARCHAR(30),
     date DATE
 );
+
